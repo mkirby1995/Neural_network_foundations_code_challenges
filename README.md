@@ -1,5 +1,5 @@
 # Lambda School DS7 - Neural Network Foundations - Code Challenges
-Code challenge for Lambda School students. Practice Goals: Implimenting Perceptrons and Back-propagation, numpy array operations
+Code challenge for Lambda School students. Practice Goals: Implementing Perceptrons and Back-propagation, numpy array operations
 
 ## Instructions
 
